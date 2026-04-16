@@ -1,4 +1,4 @@
-input_str = 'Python'
+input_str = 'Python is a great language'
 reverse_str = ''
 
 for char in input_str:

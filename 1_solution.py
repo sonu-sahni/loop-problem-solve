@@ -1,4 +1,4 @@
-numbers = [1, -2, 3, -4, 5, 6, 7, -8, 9, 10]
+numbers = [1, -2, 3, -4, 5, 6, 7, -8, 9, 10,90,-34,45,-67,89,-23,45,-56,78,-90,12]
 positive_number_count = 0
 for num in numbers: 
     if num > 0 :
